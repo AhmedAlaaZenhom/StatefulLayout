@@ -1,0 +1,2 @@
+include ':app', ':statefullayout'
+rootProject.name='Stateful Layout Example'
